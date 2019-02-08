@@ -12,7 +12,7 @@
 Just an api 
 
 # Download
-npm install
+npm install and
 node server (start server)
 
 
