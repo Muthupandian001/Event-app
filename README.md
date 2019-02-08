@@ -9,8 +9,10 @@
 4. User cannot cancel event if start time is less than 8 hours
 
 5. Event participants api to display all the participants and their status(going,canceled)
+Just an api 
 
-#Download 
+# Download
 npm install
 node server (start server)
+
 
